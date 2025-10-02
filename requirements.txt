@@ -1,0 +1,10 @@
+gradio
+requests
+pandas
+wikipedia
+duckduckgo-search
+beautifulsoup4
+lxml
+youtube-transcript-api
+mcp
+huggingface-hub[mcp]
